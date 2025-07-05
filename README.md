@@ -56,8 +56,3 @@ The system was evaluated using:
 2. Install dependencies: `pip install -r requirements.txt`
 3. Open `Recommendation_System_SVD.ipynb` and run all cells
 
----
-
-## 👨‍💻 Author
-
-- Pranav Gopal Karande
